@@ -1,1 +1,2 @@
-them chuc nang 1 o master branch
+thêm chức năng 1 ở branch
+
